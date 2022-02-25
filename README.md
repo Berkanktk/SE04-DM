@@ -1,4 +1,4 @@
-# SE04-DM
+# Diskret Matematik - Exercises
 F = Færdiggjort  
 B = Begyndt  
 IB = Ikke-begyndt
